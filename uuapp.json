@@ -1,0 +1,155 @@
+{
+  "product": "uu_uni4l_maing01",
+  "version": "0.1.0",
+  "license": "License Commercial",
+  "description": {
+    "en": "",
+    "cs": ""
+  },
+  "devkit": {
+    "development": {
+      "appBoxLocationUri": "----- VALUE REQUIRED -----",
+      "appDeploymentUri": null
+    }
+  },
+  "uu_uni4l_maing01-hi": {
+    "componentList": [
+      {
+        "code": "UuUni4l.Routes.MyRoute",
+        "name": "MyRoute",
+        "tagList": [
+          "UuUni4l",
+          "Routes",
+          "MyRoute"
+        ],
+        "docCode": "UuUni4lRoutesMyRoute",
+        "desc": "",
+        "icon": "",
+        "imageUri": "",
+        "uuEccReady": false,
+        "template": "<UuUni4l.Routes.MyRoute />"
+      },
+      {
+        "code": "UuUni4l.Bricks.ControlledUncontrolled",
+        "name": "ControlledUncontrolled",
+        "tagList": [
+          "UuUni4l",
+          "Bricks",
+          "ControlledUncontrolled"
+        ],
+        "docCode": "UuUni4lBricksControlledUncontrolled",
+        "desc": "",
+        "icon": "",
+        "imageUri": "",
+        "uuEccReady": false,
+        "template": "<UuUni4l.Bricks.ControlledUncontrolled />"
+      },
+      {
+        "code": "UuUni4l.Bricks.Controlled",
+        "name": "Controlled",
+        "tagList": [
+          "UuUni4l",
+          "Bricks",
+          "Controlled"
+        ],
+        "docCode": "UuUni4lBricksControlled",
+        "desc": "",
+        "icon": "",
+        "imageUri": "",
+        "uuEccReady": false,
+        "template": "<UuUni4l.Bricks.Controlled />"
+      },
+      {
+        "code": "UuUni4l.Bricks.Uncontolled",
+        "name": "Uncontolled",
+        "tagList": [
+          "UuUni4l",
+          "Bricks",
+          "Uncontolled"
+        ],
+        "docCode": "UuUni4lBricksUncontolled",
+        "desc": "",
+        "icon": "",
+        "imageUri": "",
+        "uuEccReady": false,
+        "template": "<UuUni4l.Bricks.Uncontolled />"
+      },
+      {
+        "code": "UuUni4l.Bricks.OptimisticPessimistic",
+        "name": "OptimisticPessimistic",
+        "tagList": [
+          "UuUni4l",
+          "Bricks",
+          "OptimisticPessimistic"
+        ],
+        "docCode": "UuUni4lBricksOptimisticPessimistic",
+        "desc": "",
+        "icon": "",
+        "imageUri": "",
+        "uuEccReady": false,
+        "template": "<UuUni4l.Bricks.OptimisticPessimistic />"
+      },
+      {
+        "code": "UuUni4l.Bricks.Authorization",
+        "name": "Authorization",
+        "tagList": [
+          "UuUni4l",
+          "Bricks",
+          "Authorization"
+        ],
+        "docCode": "UuUni4lBricksAuthorization",
+        "desc": "",
+        "icon": "",
+        "imageUri": "",
+        "uuEccReady": false,
+        "template": "<UuUni4l.Bricks.Authorization />"
+      },
+      {
+        "code": "UuUni4l.Bricks.SampleText",
+        "name": "SampleText",
+        "tagList": [
+          "UuUni4l",
+          "Bricks",
+          "SampleText"
+        ],
+        "docCode": "UuUni4lBricksSampleText",
+        "desc": "",
+        "icon": "",
+        "imageUri": "",
+        "uuEccReady": false,
+        "template": "<UuUni4l.Bricks.SampleText />"
+      },
+      {
+        "code": "UuUni4l.Bricks.Validation",
+        "name": "Validation",
+        "tagList": [
+          "UuUni4l",
+          "Bricks",
+          "Validation"
+        ],
+        "docCode": "UuUni4lBricksValidation",
+        "desc": "",
+        "icon": "",
+        "imageUri": "",
+        "uuEccReady": false,
+        "template": "<UuUni4l.Bricks.Validation />"
+      },
+      {
+        "code": "UuUni4l.Bricks.ValidationSelect",
+        "name": "ValidationSelect",
+        "tagList": [
+          "UuUni4l",
+          "Bricks",
+          "ValidationSelect"
+        ],
+        "docCode": "UuUni4lBricksValidationSelect",
+        "desc": "",
+        "icon": "",
+        "imageUri": "",
+        "uuEccReady": false,
+        "template": "<UuUni4l.Bricks.ValidationSelect />"
+      }
+    ]
+  },
+  "uu_uni4l_maing01-server": {}
+}

@@ -1,0 +1,11 @@
+{
+  "port": 1234,
+  "autoOpenInBrowser": false,
+  "basePath": "/uu-uni4l-main/0-0/",
+  "useMockData": false,
+  "uu5Environment": {
+    "App": {
+      "environmentName": "LOCAL"
+    }
+  }
+}
